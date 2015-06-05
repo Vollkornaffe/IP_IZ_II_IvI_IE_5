@@ -4,8 +4,8 @@ import Data.List
 data FactTree = FT Int [FactTree] | FE Int
 
 instance Show FactTree where
-    show (FE n) = show n
-    show (FT n xs) = "[." ++ show n ++ " " ++ (concatMap ((++ " ") . show) xs) ++ "]" 
+    show (FE n) = "[ " ++ show n ++ " ]"
+    show (FT n xs) = "[ " ++ show n ++ " " ++ (concatMap ((++ " ") . show) xs) ++ "]" 
 
 minus (x:xs) (y:ys) = case (compare x y) of 
     LT -> x : minus  xs  (y:ys)
@@ -34,8 +34,8 @@ thisFact :: Int -> Int -> Int
 thisFact n k = if (n `mod` k == 0) then 1 + (thisFact (quot n k) k)
                                    else 0
 
-strs = "\\documentclass{article}\\usepackage{qtree}\\begin{document}" ++ 
-       (concatMap (\t -> "\\Tree " ++ show t ++ "\n") $ map (\i -> FT i (factorise i)) [1000..2000]) ++
+strs = "\\documentclass{article}\\usepackage{synttree}\\begin{document}" ++ 
+       (concatMap (\t -> "\\synttree " ++ show t ++ "\\\\\\\\") $ map (\i -> FT i (factorize i)) [1..100]) ++
        "\\end{document}"
 
 main = putStr strs

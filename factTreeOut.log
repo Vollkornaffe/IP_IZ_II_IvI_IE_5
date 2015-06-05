@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.5.2)  5 JUN 2015 21:18
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.5.2)  5 JUN 2015 21:55
 entering extended mode
 **factTreeOut.tex
 ("C:\Users\Lars\Desktop\haskel studies\IP_IZ_II_IvI_IE_5\factTreeOut.tex"
@@ -30,147 +30,39 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\qtree\qtree.sty"
-Package: 2008/12/12 v.3.1bQtree: tree-drawing for linguistics
-Package: qtree 2008/12/12 v.3.1bQtree: tree-drawing for linguistics
-("C:\Program Files\MiKTeX 2.9\tex\latex\pict2e\pict2e.sty"
-Package: pict2e 2011/04/05 v0.2y Improved picture commands (HjG,RN,JT)
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\pict2e.cfg"
-File: pict2e.cfg 2005/12/29 v1.0 MiKTeX 'pict2e' configuration
+("C:\Program Files\MiKTeX 2.9\tex\latex\synttree\synttree.sty"
+\MTr@level=\count87
+\MTr@numchildren=\count88
+\MTr@maxlevel=\count89
+\MTr@mybranchmult=\count90
+\MTr@labelbox=\box26
+\MTr@treebox=\box27
+\MTr@treev=\count91
+\MTr@treew=\count92
+\MTr@treeheight=\count93
+\MTr@treedepth=\count94
+\MTr@branchmult=\count95
+\MTr@labeldepth=\count96
+\MTr@labelheight=\count97
+\MTr@labelhalfwidth=\count98
+\MTr@morex=\count99
+\MTr@parenty=\count100
+\MTr@picwidth=\count101
+\MTr@picheight=\count102
+\MTr@templength=\skip43
+\MTr@loopcnta=\count103
+\MTr@tempcnta=\count104
+\MTr@tempcntb=\count105
+\MTr@tempcntc=\count106
+\MTr@branchheight=\count107
+\MTr@trianglemultright=\count108
+\MTr@trianglemultleft=\count109
+\MTr@lineoffset=\count110
+\MTr@minheight=\skip44
+\MTr@childsidesep=\count111
+\MTr@childattachsep=\count112
 )
-Package pict2e Info: Driver file: pdftex.def on input line 119.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count87
-)
-Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 121.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\pict2e\p2e-pdftex.def"
-File: p2e-pdftex.def 2011/04/05 v0.1t Driver-dependant file (RN,HjG,JT)
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
-)
-\pIIe@GRAPH=\toks14
-\@arclen=\dimen103
-\@arcrad=\dimen104
-\@tempdimd=\dimen105
-)
-\c@treecount=\count88
-\c@branchcount=\count89
-\parentbox=\box26
-\treebox=\box27
-\treeboxone=\box28
-\treeboxtwo=\box29
-\treeboxthree=\box30
-\treeboxfour=\box31
-\treeboxfive=\box32
-\treeboxsix=\box33
-\treeboxseven=\box34
-\treeboxeight=\box35
-\treeboxnine=\box36
-\treeboxten=\box37
-\treeboxeleven=\box38
-\treeboxtwelve=\box39
-\treeboxthirteen=\box40
-\treeboxfourteen=\box41
-\treeboxfifteen=\box42
-\treeboxsixteen=\box43
-\treeboxseventeen=\box44
-\treeboxeighteen=\box45
-\treeboxnineteen=\box46
-\treeboxtwenty=\box47
-\treeoffsetone=\skip43
-\treeoffsettwo=\skip44
-\treeoffsetthree=\skip45
-\treeoffsetfour=\skip46
-\treeoffsetfive=\skip47
-\treeoffsetsix=\skip48
-\treeoffsetseven=\skip49
-\treeoffseteight=\skip50
-\treeoffsetnine=\skip51
-\treeoffsetten=\skip52
-\treeoffseteleven=\skip53
-\treeoffsettwelve=\skip54
-\treeoffsetthirteen=\skip55
-\treeoffsetfourteen=\skip56
-\treeoffsetfifteen=\skip57
-\treeoffsetsixteen=\skip58
-\treeoffsetseventeen=\skip59
-\treeoffseteighteen=\skip60
-\treeoffsetnineteen=\skip61
-\treeoffsettwenty=\skip62
-\treeshiftone=\skip63
-\treeshifttwo=\skip64
-\treeshiftthree=\skip65
-\treeshiftfour=\skip66
-\treeshiftfive=\skip67
-\treeshiftsix=\skip68
-\treeshiftseven=\skip69
-\treeshifteight=\skip70
-\treeshiftnine=\skip71
-\treeshiftten=\skip72
-\treeshifteleven=\skip73
-\treeshifttwelve=\skip74
-\treeshiftthirteen=\skip75
-\treeshiftfourteen=\skip76
-\treeshiftfifteen=\skip77
-\treeshiftsixteen=\skip78
-\treeshiftseventeen=\skip79
-\treeshifteighteen=\skip80
-\treeshiftnineteen=\skip81
-\treeshifttwenty=\skip82
-\treewidthone=\skip83
-\treewidthtwo=\skip84
-\treewidththree=\skip85
-\treewidthfour=\skip86
-\treewidthfive=\skip87
-\treewidthsix=\skip88
-\treewidthseven=\skip89
-\treewidtheight=\skip90
-\treewidthnine=\skip91
-\treewidthten=\skip92
-\treewidtheleven=\skip93
-\treewidthtwelve=\skip94
-\treewidththirteen=\skip95
-\treewidthfourteen=\skip96
-\treewidthfifteen=\skip97
-\treewidthsixteen=\skip98
-\treewidthseventeen=\skip99
-\treewidtheighteen=\skip100
-\treewidthnineteen=\skip101
-\treewidthtwenty=\skip102
-\daughteroffsetone=\skip103
-\daughteroffsettwo=\skip104
-\daughteroffsetthree=\skip105
-\daughteroffsetfour=\skip106
-\branchwidthone=\skip107
-\branchwidthtwo=\skip108
-\branchwidththree=\skip109
-\branchwidthfour=\skip110
-\parentoffset=\skip111
-\treeoffset=\skip112
-\daughteroffset=\skip113
-\branchwidth=\skip114
-\parentwidth=\skip115
-\treewidth=\skip116
-\qta=\toks15
-\qtb=\toks16
-\nbranches=\count90
-\qroofx=\count91
-\qroofy=\count92
-\@qrscratchbox=\box48
-)
-No file factTreeOut.aux.
+("C:\Users\Lars\Desktop\haskel studies\IP_IZ_II_IvI_IE_5\factTreeOut.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 1.
 LaTeX Font Info:    ... okay on input line 1.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 1.
@@ -183,40 +75,557 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 1.
 LaTeX Font Info:    ... okay on input line 1.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 1.
 LaTeX Font Info:    ... okay on input line 1.
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count93
-\scratchdimen=\dimen106
-\scratchbox=\box49
-\nofMPsegments=\count94
-\nofMParguments=\count95
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count96
-\MPscratchDim=\dimen107
-\MPnumerator=\count97
-\makeMPintoPDFobject=\count98
-\everyMPtoPDFconversion=\toks18
-)
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 1.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 1.
- [1
+\MTr@childibox=\box28
+\MTr@childix=\count113
+\MTr@childiy=\count114
+\MTr@childiv=\count115
+\MTr@childiw=\count116
+\MTr@childiheight=\count117
+\MTr@childidepth=\count118
+\MTr@childibranchmult=\count119
+\MTr@childipicheight=\count120
+\MTr@childitriangle=\count121
+\MTr@childiibox=\box29
+\MTr@childiix=\count122
+\MTr@childiiy=\count123
+\MTr@childiiv=\count124
+\MTr@childiiw=\count125
+\MTr@childiiheight=\count126
+\MTr@childiidepth=\count127
+\MTr@childiibranchmult=\count128
+\MTr@childiipicheight=\count129
+\MTr@childiitriangle=\count130
+\MTr@childiiibox=\box30
+\MTr@childiiix=\count131
+\MTr@childiiiy=\count132
+\MTr@childiiiv=\count133
+\MTr@childiiiw=\count134
+\MTr@childiiiheight=\count135
+\MTr@childiiidepth=\count136
+\MTr@childiiibranchmult=\count137
+\MTr@childiiipicheight=\count138
+\MTr@childiiitriangle=\count139
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+[1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3] [4] [5]
 [6] [7] [8] [9] [10] [11] [12] [13] [14] [15]
 ("C:\Users\Lars\Desktop\haskel studies\IP_IZ_II_IvI_IE_5\factTreeOut.aux") ) 
 Here is how much of TeX's memory you used:
- 1252 strings out of 493921
- 16285 string characters out of 3147286
- 1423763 words of memory out of 3000000
- 4599 multiletter control sequences out of 15000+200000
+ 319 strings out of 493921
+ 4381 string characters out of 3147286
+ 900472 words of memory out of 3000000
+ 3693 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,7n,21p,329b,286s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 23i,7n,20p,3571b,197s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:
 /Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on factTreeOut.pdf (15 pages, 70531 bytes).
+Output written on factTreeOut.pdf (15 pages, 148608 bytes).
 PDF statistics:
  55 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
