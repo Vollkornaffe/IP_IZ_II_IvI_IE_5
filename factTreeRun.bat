@@ -1,0 +1,1 @@
+ghc -O3 factTreeSrc.hs && factTreeSrc > factTreeOut.tex && pdflatex factTreeOut.tex && factTreeOut.pdf

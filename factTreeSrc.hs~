@@ -1,0 +1,41 @@
+import Control.Monad
+import Data.List
+
+data FactTree = FT Int [FactTree] | FE Int
+
+instance Show FactTree where
+    show (FE n) = show n
+    show (FT n xs) = "[." ++ show n ++ " " ++ (concatMap ((++ " ") . show) xs) ++ "]" 
+
+minus (x:xs) (y:ys) = case (compare x y) of 
+    LT -> x : minus  xs  (y:ys)
+    EQ ->     minus  xs     ys 
+    GT ->     minus (x:xs)  ys
+
+primes = 2 : oddprimes
+    where 
+        oddprimes = sieve [3,5..] 9 oddprimes
+        sieve (x:xs) q ps@ ~(p:t)
+            | x < q     = x : sieve xs q ps
+            | otherwise =     sieve (xs `minus` [q, q+2*p..]) (head t^2) t
+
+factorize :: Int -> [FactTree]
+factorize n = map recursive (snd (foldl f (n,[]) (takeWhile (<= n) primes)))
+    where recursive :: (Int, Int) -> FactTree
+          recursive (a,b) = if b == 1 then FE a 
+                                      else if ((b `elem` (takeWhile (<= b) primes)) || b==1) then FT a [FE b]
+                                                                                             else FT a (factorize b)
+          f :: (Int,[(Int,Int)]) -> Int -> (Int,[(Int,Int)])
+          f (i,xs) p = let b = thisFact i p
+                       in if b == 0 then (i,xs)
+                                    else (i `quot` p^b, (p,b):xs)
+
+thisFact :: Int -> Int -> Int
+thisFact n k = if (n `mod` k == 0) then 1 + (thisFact (quot n k) k)
+                                   else 0
+
+strs = "\\documentclass{article}\\usepackage{qtree}\\begin{document}" ++ 
+       (concatMap (\t -> "\\Tree " ++ show t ++ "\n") $ map (\i -> FT i (factorise i)) [1000..2000]) ++
+       "\\end{document}"
+
+main = putStr strs
